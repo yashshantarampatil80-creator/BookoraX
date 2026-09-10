@@ -266,7 +266,7 @@ This project is developed for educational and development purposes.
 
 A modern hotel booking and reservation experience.
 
-````
+
 
 Then save it with **Ctrl + S**.
 
