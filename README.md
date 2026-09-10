@@ -1,6 +1,6 @@
 Copy **everything inside this code block** and paste it into your `README.md`. First press **Ctrl + A** in the README to remove the old React + Vite text.
 
-````markdown
+
 # 🏨 BookoraX
 
 ### Smart Hotel Booking & Reservation Management System
@@ -9,7 +9,7 @@ BookoraX is a modern hotel booking and reservation platform designed to make
 hotel discovery, room selection, booking, and reservation management simple
 and convenient.
 
----
+
 
 ## ✨ Features
 
@@ -29,7 +29,7 @@ and convenient.
 - ⭐ Reviews and ratings
 - 🔔 Booking notifications
 
----
+
 
 ## 🖥️ Main Pages
 
@@ -84,7 +84,7 @@ and convenient.
 - Manage reviews
 - Reports and statistics
 
----
+
 
 ## 🛠️ Technology Stack
 
@@ -107,7 +107,7 @@ and convenient.
 - GitHub
 - VS Code
 
----
+
 
 ## 📂 Project Structure
 
@@ -135,7 +135,7 @@ BookoraX/
 └── README.md
 ````
 
----
+
 
 ## 🚀 Getting Started
 
@@ -163,7 +163,7 @@ npm install
 npm run dev
 ```
 
----
+
 
 ## 🎨 Design
 
